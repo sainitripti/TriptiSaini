@@ -1,0 +1,158 @@
+*{
+margin:0;
+padding:0;
+}
+
+body{
+  background-color:grey;
+}
+
+.header{
+  background-image:url("https://www.hdwallpapers.in/walls/bicycle-wide.jpg");
+  background-size:100%;
+  box-shadow:0px 2px 4px #000;
+}
+#motivation-text{
+  font-family:comic sans ms;
+  color:white;
+  text-align:center;
+  padding-top:50px;
+  font-style:italic;
+  font-size:50px;
+  text-shadow:2px 2px 1px orange;
+}
+.target{
+  background-color:transparent;
+  font-family:didot;
+  font-weight:bold;
+  font-size:20px;
+  color:white;
+  text-shadow:2px 2px 2px #000;
+  margin: 180px 20px 10px 20px;
+  padding:10px 20px 10px 20px;
+}
+
+.about{
+  margin-left:150px;
+  margin-right:150px;
+  background-color:silver;
+  box-shadow:0px 2px 4px;
+}
+
+.about-content{
+  font-family:Verdana;
+  font-size:23px;
+  text-align:center;
+  margin-top:50px;
+  color:rgb(120,120,120);
+}
+
+#first-half{
+  font-size:20px;
+}
+
+hr{
+  display:block;
+  margin-left: 10%; 
+  margin-right:10%;
+  border-width:5px;
+  border-color:white;
+}
+
+#profile-picture{
+  border-radius:50%;
+  margin: 50px 50px 50px 50px;
+  vertical-align:middle;
+  horizontal-align:right;
+}
+
+.portfolio{
+  margin: 0px 150px 0px 150px;
+  background-color:lightpink;
+}
+
+.portfolio-image{
+  height:250px;
+  width:420px;
+}
+
+#CGMS{
+  width:200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.heading{
+  color:grey;
+  font-style:bold;
+  text-align:center;
+  font-family:Verdana;
+  font-size:50px;
+  padding-top:50px;
+}
+
+.well{
+  margin:10px 10px 10px 10px;
+}
+
+.caption-heading{
+  font-style:bold;
+  font-size:16px;
+  text-align:center;
+  font-family:Verdana;
+  color:#223A5E;
+}
+
+.caption-content{
+  font-family:Verdana;
+  font-size:12px;
+  color:black;
+  text-align:center;
+}
+
+.contact{
+  background-color: #4B0082;
+  padding:20px 60px 20px 60px;
+  
+}
+#fb{
+  background-color:#3b5998;
+  color:white;
+}
+#linkedin{
+  background-color:#0077B5;
+  color:white;
+}
+#google{
+  background-color:#DB4437;
+  color:white;
+}
+#git{
+  background-color:#333;
+  color:white;
+}
+.connect{
+  font-size:24px;
+  font-family:Verdana;
+  color:white;
+  font-style:bold;
+}
+
+#footer{
+  color:white;
+  text-align:right;
+  font-size:18px;
+  font-family:ComicSansMS;
+}
+#myname{
+  
+  font-size:40px;
+  color:maroon;
+    background-color:transparent;
+  font-family:didot;
+  font-weight:bold;
+  
+  text-shadow:2px 2px 2px white;
+  margin: 10px 20px 10px 20px;
+  padding:10px 20px 10px 20px;
+}
