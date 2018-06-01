@@ -76,6 +76,11 @@ hr{
   width:420px;
 }
 
+.row{
+  margin-left:auto;
+  margin-right:auto;
+}
+
 #CGMS{
   width:200px;
   display: block;
